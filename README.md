@@ -73,6 +73,7 @@ To get a local copy up and running follow these simple example steps.
    ```
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
+
 ---
 
 ### Usage 💡
@@ -112,8 +113,6 @@ d.rename_file("FILE_ID", "NEW_NAME")
 # Copy videos from another Doodstream user to your account
 d.copy_video("FILE_ID")
 ```
-
-
 
 ---
 
