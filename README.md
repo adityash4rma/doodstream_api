@@ -19,7 +19,7 @@
 <h3 align="center">Doodstream API wrapper</h3>
 
   <p align="center">
-    This is an un-official Doodstream python API Wrapper is just an upgrade or what you can say an maintained fork of <a href="https://github.com/wahyubiman/DoodStream"> THIS! </a>
+    This is an un-official Doodstream python API Wrapper is just an upgrade or what you can say a maintained fork of <a href="https://github.com/wahyubiman/DoodStream"> THIS! </a>
     <br />
     <a href="https://github.com/adityash4rma/doodstream_api"></a>
     <br />
@@ -37,13 +37,13 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project-">About The Project</a>
     </li>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#Usage">Usage</a></li>
-    <li><a href="#todo">TODO</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#donations">Contact</a></li>
+    <li><a href="#getting-started-">Getting Started</a></li>
+    <li><a href="#Usage-">Usage</a></li>
+    <li><a href="#todo-">TODO</a></li>
+    <li><a href="#license-">License</a></li>
+    <li><a href="#donations-">Contact</a></li>
   </ol>
 </details>
 
