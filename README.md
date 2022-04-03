@@ -67,10 +67,10 @@ To get a local copy up and running follow these simple example steps.
 ---
 ### Installation 🛠
 
-2. 
-   ```sh
-   pip install doodstream_api
-   ```
+
+```sh
+pip install doodstream_api
+```
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 
@@ -83,7 +83,7 @@ To get a local copy up and running follow these simple example steps.
 from doodstream_api import doodstream_conf
 
 
-ds = doodstream_conf('55929o755yftqy6hx6ncv')
+ds = doodstream_conf('23JC3hcvxxxxxxxxx')
 
 
 # Check doodstream account info
@@ -98,20 +98,48 @@ ds.account_dmca()
 # Upload video file from local storage
 ds.local_upload("PATH_TO_YOUR_VIDEO")
 
+# Copy/Clone Video to your account
+ds.copy_video("FILE_ID")
+
 # Upload video from direct links
-d.remote_upload("DIRECT_VIDEO_LINK")
+ds.remote_upload("DIRECT_VIDEO_LINK")
+
+# Get list & status of remote uploads (errors, current uploads, etc.)
+ds.remote_upload_list()
+
+# Get only status of remote uploads
+ds.remote_upload_status()
+
+# Info for slots in remote upload
+ds.remote_upload_slots()
+
+# Perform Various Action on remote upload
+ds.remote_upload_action()
+
+# Create new folder
+ds.folder_create('FOLDER_NAME')
+
+# Rename folders
+ds.folder_rename('FOLDER_ID','FOLDER_NAME')
+
+# List Files in your Doodstream Account
+ds.file_list()
+
+# Specific file status
+ds.file_status('FOLDER_ID')
 
 # Get basic file info
-d.file_info("FILE_ID")
+ds.file_info("FILE_ID")
+
+# Get file image
+ds.file_image('FILE_ID')
+
+# Specific File rename
+ds.file_rename('FILE_ID', 'NEW_FILE_NAME')
 
 # Search videos in your Doodstream account
-d.search_videos("YOUR_KEYWORD")
+d.file_search("YOUR_KEYWORD")
 
-# Rename video filename 
-d.rename_file("FILE_ID", "NEW_NAME")
-
-# Copy videos from another Doodstream user to your account
-d.copy_video("FILE_ID")
 ```
 
 ---
@@ -142,9 +170,8 @@ Distributed under the MIT License. See [LICENSE.txt](https://github.com/adityash
 <!-- CONTACT -->
 ## Donations 😃
 
-<a href="https://www.buymeacoffee.com/adityash4rma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/adityash4rma" target="_blank"><img src="images/blue.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-**BTC**: `bc1qrv7plw2afsvay7n65u63y7d8xmfcxr5gkucrmq`
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 
