@@ -170,7 +170,7 @@ Distributed under the MIT License. See [LICENSE.txt](https://github.com/adityash
 <!-- CONTACT -->
 ## Donations 😃
 
-<a href="https://www.buymeacoffee.com/adityash4rma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/adityash4rma" target="_blank"><img src="images/blue.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
