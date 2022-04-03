@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/adityash4rma/doodstream_api">
-    <img src="images/header.png" alt="Logo">
+    <img src="https://telegra.ph/file/f4c81a1ac75944b77fe60.png" alt="Logo">
   </a>
 
 <h3 align="center">Doodstream API wrapper</h3>
@@ -40,10 +40,10 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#Usage">Usage</a></li>
     <li><a href="#todo">TODO</a></li>
-    <li><a href="#faqs">FAQs</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#donations">Contact</a></li>
   </ol>
 </details>
 
@@ -170,7 +170,7 @@ Distributed under the MIT License. See [LICENSE.txt](https://github.com/adityash
 <!-- CONTACT -->
 ## Donations 😃
 
-<a href="https://www.buymeacoffee.com/adityash4rma" target="_blank"><img src="images/blue.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/adityash4rma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
